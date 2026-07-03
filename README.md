@@ -163,6 +163,10 @@ Data Analyst | Monitoring & Evaluation Professional | Dashboard Specialist
 Email: umarmusapress@gmail.com  
 GitHub: https://github.com/UmarMusaIsah
 
+## Portfolio Navigation
+
+🔗 Master Portfolio: https://github.com/UmarMusaIsah/data-analytics-portfolio
+
 ---
 
 > Turning programme data into strategic decisions.
