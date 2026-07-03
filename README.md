@@ -161,7 +161,8 @@ This dashboard demonstrates how analytics strengthens monitoring and evaluation 
 Data Analyst | Monitoring & Evaluation Professional | Dashboard Specialist
 
 Email: umarmusapress@gmail.com  
-GitHub: https://github.com/UmarMusaIsah
+GitHub: https://github.com/UmarMusaIsah     
+LinkedIn: https://www.linkedin.com/in/umar-musa-isah-997821408
 
 ## Portfolio Navigation
 
